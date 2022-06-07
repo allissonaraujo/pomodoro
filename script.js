@@ -8,7 +8,7 @@ $(document).ready(function(){
   var countB = 5;
   $("#break").html(countB);
 
-  var pos = "Pomodoro Timer =)";
+  var pos = "Olá "+ nome!;
   var countLama;
   var posLama;
   var count;
