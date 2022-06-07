@@ -8,7 +8,7 @@ $(document).ready(function(){
   var countB = 5;
   $("#break").html(countB);
 
-  var pos = "Olá "+ nome!;
+  var pos = "Olá "+nome+"!";
   var countLama;
   var posLama;
   var count;
